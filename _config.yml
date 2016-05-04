@@ -1,6 +1,6 @@
 # Jekyll Defaults
 title: 개발하며 nolsigan
-description: A small and simple site I made to test out Jekyll.
+description: .
 baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "http://localhost:3000"
