@@ -3,7 +3,7 @@ title: 개발하며 nolsigan
 description: .
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "http://localhost:3000"
+url: "http://nolsigan.github.io"
 github: http://github.com/nolsigan
 
 markdown: kramdown
