@@ -14,6 +14,7 @@ title: 개발하며 nolsigan
 서울대 컴퓨터공학부 학부생이며 대학 수업, 웹, 앱, 서버 가리지 않고 닥치는 대로 배우고 있습니다.  
 스타트업에도 관심이 많습니다 ㅎ
 
+<br/>
 
 ## Experience
 
@@ -24,6 +25,7 @@ title: 개발하며 nolsigan
 * 스타트업 [두네이션][donation] Developer ( 2015.4 ~ 2015.11 )
 * [TEAM SV][TEAM_SV] 팀장 ( 2015.12 ~ )
 
+<br/>
 
 ## Contact & Page
 
