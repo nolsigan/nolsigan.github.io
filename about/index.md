@@ -23,6 +23,7 @@ title: 개발하며 nolsigan
 * 2014 Undergraduate Research Program 우수상
 * RWTH Aachen University Research Program ( 2015.1 ~ 2015.2 )
 * 스타트업 [두네이션][donation] Developer ( 2015.4 ~ 2015.11 )
+* 2015 소셜벤처 경연대회 최우수상 ( 두네이션 )
 * [TEAM SV][TEAM_SV] 팀장 ( 2015.12 ~ )
 
 <br/>
@@ -35,4 +36,4 @@ title: 개발하며 nolsigan
 
 [donation]: https://www.facebook.com/dunation/
 [TEAM_SV]: http://teamsv.net
-[github]: https://github.com/tnguyen/blueface/
+[github]: https://github.com/nolsigan
