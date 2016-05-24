@@ -30,6 +30,7 @@ title: 개발하며 nolsigan
 * 스타트업 [두네이션][donation] Developer ( 2015.4 ~ 2015.11 )
 * 2015 소셜벤처 경연대회 최우수상 ( 두네이션 )
 * [TEAM SV][TEAM_SV] 팀장 ( 2015.12 ~ )
+* [컴공 그게 뭐야?][컴그뭐] 세미나
 
 <br/>
 
@@ -88,3 +89,4 @@ title: 개발하며 nolsigan
 [github_nolsigan]: https://github.com/nolsigan/nolsigan.github.io
 [github_self]: https://github.com/nolsigan/SelfAlarm
 [github_os]: https://github.com/nolsigan/SNU/tree/master/3-2/Operating%20System
+[컴그뭐]: https://drive.google.com/folderview?id=0B8JI3Omkp_08eTVWLTZpVHo5blk&usp=sharing&tid=0B8JI3Omkp_08MUJ3NXp6b0dVYlU
