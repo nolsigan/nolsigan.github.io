@@ -65,6 +65,8 @@ title: 개발하며 nolsigan
 * Linux Experience
     * Aqua Penguin Serverside  (*외주 작업*)
     * [SNU OS][github_os]  (class notes)
+    * swsnu/os-team14  (*private*)
+        * system call, locks, scheduling, ...
 
 <br/> 
 
