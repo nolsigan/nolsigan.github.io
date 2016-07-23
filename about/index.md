@@ -30,6 +30,7 @@ title: 개발하며 nolsigan
 * 2015 소셜벤처 경연대회 최우수상 ( 두네이션 )
 * [TEAM SV][TEAM_SV] 팀장 ( 2015.12 ~ )
 * [컴공 그게 뭐야?][컴그뭐] 세미나
+* IUMSOCIUS 개발자 ( 2016.7 ~ )
 
 <br/>
 
@@ -45,6 +46,7 @@ title: 개발하며 nolsigan
         * jquery, bootstrap, ajax, ...
     * nolsigan/LuckyOne  (*private*)
     * nolsigan/git-blog  (*private*)
+    * IUMSOCIUS '맺음' back office 개발
     * [teamsv.net][TEAM_SV]
     * [nolsigan/nolsigan.github.io][github_nolsigan]  
 
@@ -55,8 +57,8 @@ title: 개발하며 nolsigan
         * Realm-android, MySQL
     * UI
         * XML, android-bootstrap
-    * request, socket.io, recycler_view, ...
     * Aqua Penguin  (*외주 작업*)
+    * IUMSOCIUS '이음', '아임에잇' 앱 개발
     * [Self Alarm][github_self]
     
 <br/> 
