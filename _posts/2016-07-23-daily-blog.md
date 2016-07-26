@@ -2,7 +2,7 @@
 layout: post
 date: 2016-07-23
 title: daily blog 07/23
-tags: [daily blog, neural network, design pattern]
+tags: [daily blog, neural network]
 ---
 
 ## Neural Network
@@ -22,9 +22,3 @@ output의 합이 1이므로 probability distribution으로 이해할 수 있다.
 
 Softmax는 log-likelihood cost function과 함께 사용되며 sigmoid가 cross-entropy와 함께 사용되는 것과 비슷한 성능을 낸다.
 Output activation 값을 probability로 얻고 싶은 경우에 softmax의 사용이 더 적절하다.
-
-## Design Pattern
-
-### Design principles
-
-### Factory pattern
