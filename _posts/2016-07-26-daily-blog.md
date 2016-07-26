@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-07-23
+date: 2016-07-26
 title: daily blog 07/26
 tags: [daily blog, algorithm]
 ---
