@@ -2,7 +2,7 @@
 layout: post
 date: 2016-07-28
 title: daily blog 07/28
-tags: [daily blog, algorithm, TDD]
+tags: [daily blog, algorithm, TDD, android]
 ---
 
 ## Algorithm
