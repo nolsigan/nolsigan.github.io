@@ -44,9 +44,8 @@ title: 개발하며 nolsigan
         * REST API, socket.io, ...
     * Frontend
         * Basics (HTML, css, js)
-        * jquery, bootstrap, ajax, ...
-    * nolsigan/LuckyOne  (*private*)
-    * nolsigan/git-blog  (*private*)
+        * Libraries (jquery, bootstrap, ajax, ...)
+        * Frameworks (AngularJs, reactJs)
     * IUMSOCIUS '맺음' back office 개발
     * [teamsv.net][TEAM_SV]
     * [nolsigan/nolsigan.github.io][github_nolsigan]  
@@ -58,9 +57,10 @@ title: 개발하며 nolsigan
         * Realm-android, MySQL
     * UI
         * XML, android-bootstrap
+    * HTTP Communication
+        * Volley, Retrofit
     * Aqua Penguin  (*외주 작업*)
     * IUMSOCIUS '이음', '아임에잇' 앱 개발
-    * [Self Alarm][github_self]
     
 <br/> 
 
@@ -69,6 +69,7 @@ title: 개발하며 nolsigan
     * [SNU OS][github_os]  (class notes)
     * swsnu/os-team14  (*private*)
         * system call, locks, scheduling, ...
+        * Tizen Kernel updates
 
 <br/> 
 
@@ -78,6 +79,13 @@ title: 개발하며 nolsigan
         * Connecting continuous model in 3D printing  (URP)
     * Transformming 3D object to 2D plane objects  (RWTH research)
      
+
+<br/>
+
+* Machine Learning
+    * [neural networks and deep learning][neuralanddeep]
+    * Co-working with Samsung SDS
+        * face recognition algorithm for low memory devices
 
 <br/>
 
@@ -91,6 +99,6 @@ title: 개발하며 nolsigan
 [TEAM_SV]: http://teamsv.net
 [github]: https://github.com/nolsigan
 [github_nolsigan]: https://github.com/nolsigan/nolsigan.github.io
-[github_self]: https://github.com/nolsigan/SelfAlarm
 [github_os]: https://github.com/nolsigan/SNU/tree/master/3-2/Operating%20System
 [컴그뭐]: https://drive.google.com/folderview?id=0B8JI3Omkp_08eTVWLTZpVHo5blk&usp=sharing&tid=0B8JI3Omkp_08MUJ3NXp6b0dVYlU
+[neuralanddeep]: http://neuralnetworksanddeeplearning.com
