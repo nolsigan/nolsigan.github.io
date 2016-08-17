@@ -1,0 +1,37 @@
+---
+layout: post
+date: 2016-08-17
+title: daily blog 08/17
+tags: [daily blog, neural network]
+---
+
+## Neural Network
+
+### Visual proof that neural net can solve any function
+
+Neural net이 모든 함수를 풀 수 있음을 증명하는 것은 수학식을 통해서도 가능하지만 그래프를 통한 설명도 가능하다.
+Hidden layer의 두 뉴런을 하나의 쌍으로 이용하면 2차원 그래프 상에 step function을 만들 수 있다.
+뉴런을 쌍으로 늘려가며 그래프를 근사하면 원하는 오차값 이하로 그래프를 따라 그릴 수 있다.
+더 고차원의 그래프 또한 2차원 그래프를 근사하는 것의 확장된 방법으로 가능하다.
+
+정확히 말하면 완벽히 똑같은 함수를 만들기는 불가능하지만 원하는 오차 아래로 모든 함수를 만들 수 있음은 충분히 강력한 특성이다. 
+어떤 함수 f가 주어지면 이 값은 0~1 사이의 값을 갖지만 이를 sigmoid 함수의 역함수를 곱해 근사 함수를 만듬을 증명 가능하다.
+
+<br/>
+
+### Deep neural network는 왜 학습하기 어려운가
+
+deep circuit이 어떤 함수를 더 잘 설명할 수 있다는 것은 증명 되어있다. 어려운 점은 깊이가 깊어질수록 학습시키기가 어렵다.
+문제 중 하나는 unstable gradients 인데, 크게 두 가지 경우가 있다.
+
+* vanishing gradient
+* exploding gradient
+
+Exploding gradient는 안 일어난다고 가정할 수는 없지만 일어날 확률이 vanishing gradient에 비해 현저히 낮다.
+Vanishing gradient는 앞 쪽 layer가 학습이 잘 안되는 현상으로, 앞 쪽 layer의 뉴런들의 학습 기울기가 이전 weight, sigmoid 기울기에 비례하는데
+이 값이 1 이하일 확률이 높아 앞 쪽으로 갈 수록 점점 값이 작아져서 일어난다.
+
+이 문제를 해결하기 위해 sigmoid 함수 대신 다른 activation function을 쓰거나, weight initialization을 적절히 잘하는 방법을 쓰거나
+등등의 방법을 사용한다.
+
+unstable gradient만이 deep neural network의 문제는 아니고 여러 다른 문제들이 존재하는데 다음 챕터에서 이를 해결하고 작동하는 neural net을 만들어 볼 것이다.
