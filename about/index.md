@@ -10,7 +10,7 @@ title: 개발하며 nolsigan
 
 재미있고 의미있는 일을 하는 것에 관심이 많습니다.
 
-서울대 컴퓨터공학부 학부생이며 대학 수업, 웹, 앱, 서버 가리지 않고 열심히 배우고 있습니다.  
+서울대 컴퓨터공학부 학부생이며 실무개발, 알고리즘 등 가리지 않고 열심히 배우고 있습니다.  
 
 요즘은 Deep Learning 에 관심이 많습니다!
 
@@ -83,6 +83,7 @@ title: 개발하며 nolsigan
 <br/>
 
 * Machine Learning
+    * Experienced SVM, CNN
     * [neural networks and deep learning][neuralanddeep]
     * Co-working with Samsung SDS
         * face recognition algorithm for low memory devices
