@@ -29,7 +29,6 @@ title: 개발하며 nolsigan
 * 2014 Undergraduate Research Program 우수상
 * 스타트업 [두네이션][donation] Developer ( 2015.4 ~ 2015.11 )
 * 2015 소셜벤처 경연대회 최우수상 ( 두네이션 )
-* [TEAM SV][TEAM_SV] 팀장 ( 2015.12 ~ )
 * [컴공 그게 뭐야?][컴그뭐] 세미나
 * IUMSOCIUS 개발자 ( 2016.7 ~ )
 
@@ -97,7 +96,6 @@ title: 개발하며 nolsigan
 
 
 [donation]: https://www.facebook.com/dunation/
-[TEAM_SV]: http://teamsv.net
 [github]: https://github.com/nolsigan
 [github_nolsigan]: https://github.com/nolsigan/nolsigan.github.io
 [github_os]: https://github.com/nolsigan/SNU/tree/master/3-2/Operating%20System
