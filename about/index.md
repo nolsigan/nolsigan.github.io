@@ -30,7 +30,8 @@ title: 개발하며 nolsigan
 * 스타트업 [두네이션][donation] Developer ( 2015.4 ~ 2015.11 )
 * 2015 소셜벤처 경연대회 최우수상 ( 두네이션 )
 * [컴공 그게 뭐야?][컴그뭐] 세미나
-* IUMSOCIUS 개발자 ( 2016.7 ~ )
+* IUMSOCIUS 개발자 ( 2016.7 ~ 2016.9 )
+* AKA Intelligence 개발자 ( 2016.10 ~ )
 
 <br/>
 
