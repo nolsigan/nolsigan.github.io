@@ -1,20 +1,32 @@
 ---
 layout: default
 ---
-<article>
-<div class="heading">{{ page.title }}</div>
-<p class="meta"><a class="permalink" href="{{ post.url }}">&#9679;</a> {{ page.date | date_to_string }}</p>
-{{ content }}
-{% include tags.html %}
-</article>
+<div class="post">
+  {% if page.image %}
+    <div class="featuredImage">
+        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.image }}" alt="" />
+      </div>
+  {% endif %}
+  <h1 class="postTitle">{{ page.title }}</h1>
+  <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
+  
+  {{ content }}
 
-<div
-  class="fb-like"
-  data-href="{{ site.url }}{{ page.url }}"
-  data-share="true"
-  data-width="450"
-  data-show-faces="true"
-  layout=button_count>
+  <!-- POST NAVIGATION -->
+  <div class="postNav clearfix">
+    {% if page.previous.url %} 
+      <a class="prev{% if page.previous.image %} image{% endif %}" href="{{ page.previous.url | prepend: site.baseurl }}"><span>&laquo;&nbsp;{{ page.previous.title }}</span>
+      {% if page.previous.image %} 
+        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.previous.image }}" alt="">
+      {% endif %}
+    </a>
+    {% endif %}  
+    {% if page.next.url %}  
+      <a class="next{% if page.next.image %} image{% endif %}" href="{{ page.next.url | prepend: site.baseurl }}"><span>{{ page.next.title }}&nbsp;&raquo;</span>
+      {% if page.next.image %} 
+        <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.next.image }}" alt="">
+      {% endif %} 
+      </a>
+    {% endif %} 
+  </div>
 </div>
-
-<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5" data-width="100%" data-colorscheme="light"></div>

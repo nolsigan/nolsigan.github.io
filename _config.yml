@@ -1,23 +1,28 @@
-# Jekyll Defaults
-title: 개발하며 nolsigan
-description: .
-baseurl: "" # the subpath of your site, e.g. /blog
+title: Long Haul
+description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: "http://nolsigan.github.io"
-github: http://github.com/nolsigan
+url: http://brianmaierjr.github.com/long-haul
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
 
 markdown: kramdown
 highlighter: rouge
-permalink: /post/:title/
-paginate: 4
 gems: [jekyll-paginate]
-paginate_path: "/page:num"
-rss_path: feed.xml
-tags_path: tag.html
+paginate: 5
+
 navigation:
-- text: About
-  url: /about/
-- text: Archives
-  url: /archives/
-- text: Tags
-  url: /tags/
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github: brianmaierjr
+   twitter: brianmaierjr
+   facebook: brianmaierjr
+   email: brimaidesigns@gmail.com
+
+google_analytics: "UA-77722850-1"
