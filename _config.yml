@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: 개발하며 Nolsigan
+description: Nolsigan's personal blog
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://github.com/nolsigan
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,9 +20,7 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: nolsigan
+   email: hiayuna@snu.ac.kr
 
 google_analytics: "UA-77722850-1"
