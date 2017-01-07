@@ -1,7 +1,7 @@
 title: 개발하며 Nolsigan
 description: Nolsigan's personal blog
 
-url: http://github.com/nolsigan
+url: http://nolsigan.com
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -16,8 +16,8 @@ navigation:
    url: /index.html
  - title: About
    url: /about
- - title: Contact
-   url: /contact
+#  - title: Contact
+#    url: /contact
 
 social:
    github: nolsigan
