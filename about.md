@@ -23,5 +23,5 @@ Interested in solving exciting problems with Deep Learning!
 * 2015 소셜벤처 경연대회 최우수상 ( 두네이션 )
 * IUMSOCIUS 개발자 ( 2016.7 ~ 2016.9 )
 * AKA Intelligence 개발자 ( 2016.10 ~ 2016.10)
-* 이앤비소프트 개발자 (2016.11 ~ ) (산업기능요원)
-
+* 이앤비소프트 개발자 (2016.11 ~ 2017.04) (산업기능요원)
+* Devsisters Machine Learning Engineer (2017.05 ~ ) (산업기능요원)
