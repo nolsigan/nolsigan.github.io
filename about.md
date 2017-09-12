@@ -19,7 +19,7 @@ Interested in solving exciting problems with Deep Learning!
 ## Experience
 
 * 2014 Undergraduate Research Program 우수상
-* 스타트업 [두네이션][donation] Developer ( 2015.4 ~ 2015.11 )
+* 스타트업 두네이션 Developer ( 2015.4 ~ 2015.11 )
 * 2015 소셜벤처 경연대회 최우수상 ( 두네이션 )
 * IUMSOCIUS 개발자 ( 2016.7 ~ 2016.9 )
 * AKA Intelligence 개발자 ( 2016.10 ~ 2016.10)
