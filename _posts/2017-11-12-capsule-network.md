@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2017-11-12
-title: [Paper Short Summary] Dynamic Routing Between Capsules
+title: Dynamic Routing Between Capsules
 ---
 
 Introduces new concept called capsule whose output represents the instantiation parameters of a specific type of entity such as an object or object part. Output’s orientation represents its instantiation parameters and length represents its probability.
